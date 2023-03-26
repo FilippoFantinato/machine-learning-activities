@@ -1,3 +1,24 @@
 # Machine Learning activities
-Activities performed for the Machine Learning course
 
+Activities performed for the Machine Learning course, which are also available here:
+* [Autoencoders on the MNIST dataset](https://colab.research.google.com/drive/1Skus5ldw1xKDodd9nvg-ylbutytJYbGw?usp=sharing)
+* [Bias and Variance evaluation](https://colab.research.google.com/drive/1EV_t3P2pBa8TqGfz1JBwo3jccIi6b6ta?usp=sharing)
+* [Clustering on worms dataset](https://colab.research.google.com/drive/120584z-Sb5RrAYwUx4fFkdIGMIyQzimM?usp=sharing)
+* [CNN on CIFAR dataset](https://colab.research.google.com/drive/1VCFe5UPtVCeWoFP1Ny3efNoUk-EJtXyg?usp=sharing)
+* [Derivation of backpropagation generalized](https://drive.google.com/file/d/1l-T86ygr_pZjfQNGjImQzuGztMU6r9x0/view?usp=sharing)
+* [DT ID3 for basic formulas](https://drive.google.com/file/d/1outu4vFn7kZmg01sfAJMn92VQipP5_VV/view?usp=share_link)
+* [Ensemble classifiers](https://colab.research.google.com/drive/1ynq5xDiCVvD80a2K170yWseDOD6zZO50?usp=sharing)
+* [Hidden layer representation](https://colab.research.google.com/drive/19MCIU5G8GPw93TyWz9gG8OBMmLouEAJH?usp=sharing)
+* [KNN on MovieLens](https://colab.research.google.com/drive/1S8h9iOHRXORVcyrbaNjcoTDv2-ckNKd1?usp=sharing)
+* [Naive Bayesian classifiers](https://colab.research.google.com/drive/1WQBvoXw4ZXZ4Kdr1cNd430_iuyjO8xez?usp=sharing)
+* [Non personalized RS on MovieLens](https://colab.research.google.com/drive/1qmJXgJYr8xwPVLQyNw3A2gJuSFZys5Yv?usp=sharing)
+* [PCA on IRIS dataset](https://colab.research.google.com/drive/1LDKwngc5A1lvA25jca4_SSyATbGdWYIC?usp=sharing)
+* [Perceptron Delta rule](https://colab.research.google.com/drive/1U8bfXVGDTcmAF0ctoo1TeOSQXNh0KpX_?usp=sharing)
+* [Perceptron for basic formulas](https://drive.google.com/file/d/1bEj-As2oqmCdgYZMLFC1zd4EK_iE2j1S/view?usp=share_link)
+* [Perceptron learning algorithm](https://colab.research.google.com/drive/1M0mwdr8-IL45v4ybHjUEo0ireKHp7IPH?usp=sharing)
+* [Rating sparsity and distribution analysis](https://colab.research.google.com/drive/1Vqr-4Q_Prq8I7Gxsc9tGncuJllsD0_eG?usp=sharing)
+* [Ridge Regression](https://colab.research.google.com/drive/15K0qcUlYjiUDtrxGABdBpkN312YNq0ai?usp=sharing)
+* [Sigmoid derivative](https://drive.google.com/file/d/1GI-tA7UlNTUBf4rsLhpWCt1YnhT44o8l/view?usp=share_link)
+* [Sklearn feature selection methods](https://colab.research.google.com/drive/1SOJ4kpLBcL7I8Zj3J7F4_HlxqmfUMl58?usp=sharing)
+* [Titanic Preprocessing](https://colab.research.google.com/drive/1WJyGFI1StCvXWNc54wjri6qmOWrHFuli?usp=sharing)
+* [VC Dimension](https://drive.google.com/file/d/1qvXiR10RvTQYSQ5mYRlIkYVuc9ujVXet/view?usp=share_link)
